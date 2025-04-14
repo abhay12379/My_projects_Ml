@@ -38,7 +38,7 @@ Cross-validation scores
 
 VisualizationData and model insights were visualized using Seaborn, Matplotlib, and Plotly.
 
-🛠 Tools & Libraries
+ Tools & Libraries :
 
 pandas, numpy, matplotlib, seaborn, plotly
 
